@@ -1,0 +1,15 @@
+h1{font-size: 50px;
+    color:#AD180D;
+    text-align: center;
+    font-family: fantasy;}
+
+img{width: 360;
+    height: 480;
+    display: block;
+    margin: auto;
+    border-radius: 14%;
+    }
+
+body{background-image: url('atribune.jpg');
+    background-size: cover;}
+
